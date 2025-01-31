@@ -9,8 +9,8 @@ Durum Kit is a mini application that helped me learn key concepts in JavaScript,
 - **Data Structures** – organizing information within the application.
 
 ## 🚀 App Features
-- Create and edit Durum ingredients 🌯.
-- Interactive user handling through clicks and forms.
+- Create and edit Durum ingredients
+- Interactive user handling through clicks and forms
 
 ## 📂 Project Structure
 ```
@@ -28,6 +28,3 @@ Durum-Kit/
    ```
 2. Open `index.html` in a browser.
 3. Done! You can edit the code and experiment. 🎉
-
----
-💡 If you have ideas for improvements, feel free to open an **Issue** or **Pull Request**! 🚀
