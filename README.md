@@ -1,4 +1,4 @@
-# durum-kit 🍽️
+# durum-kit
 
 Durum Kit is a mini application that helped me learn key concepts in JavaScript, including the DOM Model, event handling, and HTML element manipulation.
 
