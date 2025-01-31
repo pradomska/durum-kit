@@ -16,7 +16,7 @@ Durum Kit is a mini application that helped me learn key concepts in JavaScript,
 ```
 Durum-Kit/
 │── index.html  # Application structure
-│── style.css   # Basic styles
+│── styles.css  # Basic styles
 │── index.js    # Application logic
 └── README.md   # Documentation
 ```
